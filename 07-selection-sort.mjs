@@ -38,3 +38,9 @@ import {nomes} from "./data/nomes-desord.mjs"
 
 selectionSort(nomes)
 console.log(nomes)
+
+
+
+
+// Ele verifica todos os números do vetor, um por um, e vai puxando os menores, até ele ficar em ordem.
+// Ele vai fazendo do menor pro maior. Ordenando eles.

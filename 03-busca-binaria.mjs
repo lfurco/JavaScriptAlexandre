@@ -42,3 +42,9 @@ import {nomes} from "./data/vetor-nomes.mjs"
 // pra busca binária funcionar certo aqui
 
 console.log(`Posição de ALEXANDRE: ${buscaBinaria(nomes, "ALEXANDRE")}`)
+
+
+
+// É como se fosse uma busca sequencial, porém, ele quebra o vetor na metade e começa a procurar.
+// Ele vai SEMPRE cortando a metade, até achar o valor desejado.
+// OBS: é obrigatório que o vetor esteja ordenado, caso contrário, não funciona.

@@ -16,3 +16,8 @@ console.log("Buscando limão: ", buscaSequencial(frutas, "limão")) // 5
 console.log("Buscando morango: ", buscaSequencial(frutas, "morango")) // -1, não existe
 console.log("Buscando o número 5: ", buscaSequencial(numeros, 5)) // 1
 console.log("Buscando o número 50: ", buscaSequencial(numeros, 50)) // -1, não existe
+
+
+
+// É como se fosse uma busca que procura um por um no vetor, até achar oq quero.
+// Caso não achar = -1

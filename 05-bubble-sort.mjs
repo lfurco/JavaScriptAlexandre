@@ -29,3 +29,8 @@ bubbleSort(nums)
 // ele mexe direto no array original)
 console.log(nums)
 // aqui já sai ordenado: [0, 11, 22, 33, 44, 55, 66, 77, 88, 99]
+
+
+
+// É como se ele fosse trocando todos os números de lugar, até que todos fiquem em ordem crescente.
+// Ele vai trocando um por um, do maior pro menor. Ou seja, deixa ele em ordem.

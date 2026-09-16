@@ -48,8 +48,11 @@ console.log(nomesOrd)
 
 
 
-// é como se fosse:
 
-// 1º passo -  v: [ 77, 44, 22, 33, 99]
 
-// 2º passo -  vE: [ 77, 44]    e     vD: [22, 33, 99]    
+/*
+
+É como se ele fosse dividindo o vetor, e vai dividindo até sobrar poucos numeros. (divide em varias partes)
+Depois, ele junta as partes novamente PORÉM, já em ordem, onde vai juntando em ordem com as outras até ficar ordenado.
+
+*/

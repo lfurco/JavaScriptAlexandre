@@ -60,3 +60,10 @@ quickSort(nomes)
 
 console.log(nomes)
 console.log({pass, comps, trocas})
+
+
+/*
+
+Ele vai meio que comparando o pivot com elementos do vetor, até todos ficarem na posição correta
+
+*/

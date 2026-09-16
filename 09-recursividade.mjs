@@ -41,4 +41,10 @@ console.log("Fatorial recursivo de 5: ", fatorialRec(5))
 
 
 
-// recursividade seria uma função que chama a si mesma, até chegar em um caso base, que é o que vai parar a recursividade.
+
+/*
+
+É como se ele não soubesse o resultado do n*, então, ele chama todos os n* anteriores até chegar no 1
+Onde ele começa a multiplicar (fatorial) até chegar no resultado final.
+
+*/
